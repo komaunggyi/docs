@@ -1,6 +1,6 @@
 # Artisan Development
 
-- [Introduction](#introduction)
+- [မိတ္ဆက္](#introduction)
 - [Building A Command](#building-a-command)
 - [Registering Commands](#registering-commands)
 - [Calling Other Commands](#calling-other-commands)
